@@ -1,0 +1,8 @@
+*.pth
+*.jpg
+*.jpeg
+*.mp3
+*.wav
+images/*
+output/*
+_models/*
